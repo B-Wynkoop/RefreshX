@@ -44,6 +44,5 @@ printf '\e[35m[-------------------------------Script Complete-------------------
 # Printf > Echo			         #
 # Printf = Versatile & Control   #
 # Echo = Bash & Control		     #
-#        #########################
-#Bwynkoop#
-##########
+# -Wynkoop #######################
+
