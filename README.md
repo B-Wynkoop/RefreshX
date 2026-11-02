@@ -1,4 +1,4 @@
-# RefreshX | Linux Update Script
+# 🐧 RefreshX
 ## Overview
 
 Make updating debian linux systems easier with a single command that updates and cleans old system files as well as leftover configuration files!
